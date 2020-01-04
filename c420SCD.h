@@ -5,6 +5,8 @@
 
 #include <Arduino.h>
 #include <math.h>
+#include <Adafruit_PWMServoDriver.h>
+
 #include <C420SCD_SERVO_LIMITS.h>
 
 const uint8_t SERVO_SPEED = 50;
