@@ -1,0 +1,24 @@
+#######################################
+# Classes, datatypes (KEYWORD1)
+#######################################
+
+C420SCD	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+init								KEYWORD2
+acceptPositionAdjustment 			KEYWORD2
+acceptActualPositionAdjustment 		KEYWORD2
+getPosition 						KEYWORD2
+getActualPosition 					KEYWORD2
+getPercentPosition 					KEYWORD2
+getActualPercentPosition			KEYWORD2
+getInstance 						KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+SERVO_SPEED  LITERAL1
+SERVO_ERROR_TOLERANCE  LITERAL1
